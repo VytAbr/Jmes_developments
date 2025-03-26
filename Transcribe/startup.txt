@@ -1,0 +1,13 @@
+ .\venv\Scripts\activate
+
+paleidziam:
+1. extract_audio
+2. convert_audio
+3. transcribe
+
+
+
+
+be env sutvarkyti:
+ python.exe -m pip install --upgrade pip
+ pip install --upgrade pip setuptools wheel
